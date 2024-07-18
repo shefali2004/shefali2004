@@ -1,3 +1,4 @@
+![logo](https://github.com/shefali2004/shefali2004/blob/main/Blue%20and%20Black%20Geometric%20Gamer%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shefali Jaiswal</h1>
 <h3 align="center">A passionate MERN developer</h3>
 
